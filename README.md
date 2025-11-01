@@ -72,9 +72,7 @@ The model achieved balanced performance with minimal misclassifications.
 
 9 How to Run the Project
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/Advertisement-Click-Prediction.git
-cd Advertisement-Click-Prediction
-
+git clone https:https://github.com/varun5812/Advertisement-Click-Prediction-Using-Logistic-Regression
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
 
